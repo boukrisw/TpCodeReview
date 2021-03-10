@@ -2,7 +2,7 @@
  * AUTHORS: BUOKRIS Walid, SBAIHIA Nassim
  */
 
-package datastruct;
+package test;
 
 import org.junit.Before;
 import org.junit.Test;
