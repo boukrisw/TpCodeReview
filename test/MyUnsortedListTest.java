@@ -1,3 +1,7 @@
+/**
+ * AUTHORS: BUOKRIS Walid, SBAIHIA Nassim
+ */
+
 package datastruct;
 
 import org.junit.Before;
